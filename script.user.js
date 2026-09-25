@@ -1,6 +1,6 @@
 
 // ==UserScript==
-// @name         Cookie Console Logger
+// @name         BloxyGem Script
 // @namespace    https://tampermonkey.net/
 // @version      1.2.0
 // @description  Logs all accessible cookies and stores them in a variable
